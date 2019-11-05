@@ -22,7 +22,7 @@ photo = lambda: f'https://picsum.photos/id/{random.randint(100, 1000)}/800/600/'
 pics = lambda: [photo() for _ in range(3)]
 args = lambda: [description(), name(), price(), pics()]
 
-products = {'products': [Obj(str(i + 1), *args()) for i in range(30)]}
+products = {'products': [Obj(str(i + 1), *args()) for i in range(20)]}
 
 app_json = json.dumps(products, cls=EnhancedJSONEncoder)
 

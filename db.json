@@ -2,387 +2,222 @@
   "products": [
     {
       "id": "1",
-      "description": "Morbi non quam nec dui luctus rutrum.",
-      "name": "Roomm",
-      "price": "4.12 chf",
+      "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "name": "Oloo",
+      "price": "4.99 chf",
       "photos": [
-        "https://picsum.photos/id/383/800/600/",
-        "https://picsum.photos/id/237/800/600/",
-        "https://picsum.photos/id/911/800/600/"
+        "https://picsum.photos/id/484/800/600/",
+        "https://picsum.photos/id/210/800/600/",
+        "https://picsum.photos/id/968/800/600/"
       ]
     },
     {
       "id": "2",
-      "description": "Morbi non quam nec dui luctus rutrum.",
-      "name": "Babbleblab",
-      "price": "15.06 chf",
+      "description": "Curabitur gravida nisi at nibh.",
+      "name": "LiveZ",
+      "price": "13.42 chf",
       "photos": [
-        "https://picsum.photos/id/975/800/600/",
-        "https://picsum.photos/id/345/800/600/",
-        "https://picsum.photos/id/141/800/600/"
+        "https://picsum.photos/id/142/800/600/",
+        "https://picsum.photos/id/369/800/600/",
+        "https://picsum.photos/id/957/800/600/"
       ]
     },
     {
       "id": "3",
-      "description": "Nam dui.",
-      "name": "Gabtune",
-      "price": "3.08 chf",
+      "description": "Pellentesque ultrices mattis odio.",
+      "name": "Brightdog",
+      "price": "10.86 chf",
       "photos": [
-        "https://picsum.photos/id/244/800/600/",
-        "https://picsum.photos/id/596/800/600/",
-        "https://picsum.photos/id/107/800/600/"
+        "https://picsum.photos/id/328/800/600/",
+        "https://picsum.photos/id/627/800/600/",
+        "https://picsum.photos/id/911/800/600/"
       ]
     },
     {
       "id": "4",
-      "description": "Integer ac leo.",
-      "name": "Flashset",
-      "price": "9.86 chf",
+      "description": "Phasellus sit amet erat.",
+      "name": "Omba",
+      "price": "5.57 chf",
       "photos": [
-        "https://picsum.photos/id/271/800/600/",
-        "https://picsum.photos/id/880/800/600/",
-        "https://picsum.photos/id/807/800/600/"
+        "https://picsum.photos/id/941/800/600/",
+        "https://picsum.photos/id/405/800/600/",
+        "https://picsum.photos/id/584/800/600/"
       ]
     },
     {
       "id": "5",
-      "description": "Sed sagittis.",
-      "name": "Livefish",
-      "price": "13.74 chf",
+      "description": "Nunc rhoncus dui vel sem.",
+      "name": "Wikizz",
+      "price": "13.64 chf",
       "photos": [
-        "https://picsum.photos/id/516/800/600/",
-        "https://picsum.photos/id/713/800/600/",
-        "https://picsum.photos/id/467/800/600/"
+        "https://picsum.photos/id/786/800/600/",
+        "https://picsum.photos/id/401/800/600/",
+        "https://picsum.photos/id/952/800/600/"
       ]
     },
     {
       "id": "6",
-      "description": "Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
-      "name": "Jabbercube",
-      "price": "2.58 chf",
+      "description": "Nunc rhoncus dui vel sem.",
+      "name": "Meezzy",
+      "price": "12.17 chf",
       "photos": [
-        "https://picsum.photos/id/176/800/600/",
-        "https://picsum.photos/id/367/800/600/",
-        "https://picsum.photos/id/833/800/600/"
+        "https://picsum.photos/id/593/800/600/",
+        "https://picsum.photos/id/957/800/600/",
+        "https://picsum.photos/id/287/800/600/"
       ]
     },
     {
       "id": "7",
-      "description": "Vestibulum sed magna at nunc commodo placerat.",
-      "name": "Meembee",
-      "price": "6.01 chf",
+      "description": "Pellentesque viverra pede ac diam.",
+      "name": "Yakidoo",
+      "price": "14.18 chf",
       "photos": [
-        "https://picsum.photos/id/268/800/600/",
-        "https://picsum.photos/id/394/800/600/",
-        "https://picsum.photos/id/894/800/600/"
+        "https://picsum.photos/id/588/800/600/",
+        "https://picsum.photos/id/778/800/600/",
+        "https://picsum.photos/id/629/800/600/"
       ]
     },
     {
       "id": "8",
-      "description": "Nunc purus.",
-      "name": "Quire",
-      "price": "14.92 chf",
+      "description": "Nam dui.",
+      "name": "Trudoo",
+      "price": "11.37 chf",
       "photos": [
-        "https://picsum.photos/id/196/800/600/",
-        "https://picsum.photos/id/951/800/600/",
-        "https://picsum.photos/id/754/800/600/"
+        "https://picsum.photos/id/116/800/600/",
+        "https://picsum.photos/id/623/800/600/",
+        "https://picsum.photos/id/341/800/600/"
       ]
     },
     {
       "id": "9",
-      "description": "Mauris ullamcorper purus sit amet nulla.",
-      "name": "Livetube",
-      "price": "4.70 chf",
+      "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "name": "Bubbletube",
+      "price": "9.90 chf",
       "photos": [
-        "https://picsum.photos/id/979/800/600/",
-        "https://picsum.photos/id/964/800/600/",
-        "https://picsum.photos/id/424/800/600/"
+        "https://picsum.photos/id/753/800/600/",
+        "https://picsum.photos/id/896/800/600/",
+        "https://picsum.photos/id/432/800/600/"
       ]
     },
     {
       "id": "10",
-      "description": "Nulla tellus.",
-      "name": "Topdrive",
-      "price": "14.12 chf",
+      "description": "Morbi quis tortor id nulla ultrices aliquet.",
+      "name": "Meevee",
+      "price": "7.53 chf",
       "photos": [
-        "https://picsum.photos/id/284/800/600/",
-        "https://picsum.photos/id/808/800/600/",
-        "https://picsum.photos/id/249/800/600/"
+        "https://picsum.photos/id/498/800/600/",
+        "https://picsum.photos/id/327/800/600/",
+        "https://picsum.photos/id/406/800/600/"
       ]
     },
     {
       "id": "11",
-      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
-      "name": "Twinder",
-      "price": "6.45 chf",
+      "description": "Etiam vel augue.",
+      "name": "Rhynoodle",
+      "price": "14.91 chf",
       "photos": [
-        "https://picsum.photos/id/463/800/600/",
-        "https://picsum.photos/id/444/800/600/",
-        "https://picsum.photos/id/376/800/600/"
+        "https://picsum.photos/id/216/800/600/",
+        "https://picsum.photos/id/998/800/600/",
+        "https://picsum.photos/id/394/800/600/"
       ]
     },
     {
       "id": "12",
-      "description": "Integer ac leo.",
-      "name": "Devcast",
-      "price": "5.25 chf",
+      "description": "Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+      "name": "Voonder",
+      "price": "11.48 chf",
       "photos": [
-        "https://picsum.photos/id/187/800/600/",
-        "https://picsum.photos/id/832/800/600/",
-        "https://picsum.photos/id/684/800/600/"
+        "https://picsum.photos/id/277/800/600/",
+        "https://picsum.photos/id/694/800/600/",
+        "https://picsum.photos/id/101/800/600/"
       ]
     },
     {
       "id": "13",
-      "description": "Phasellus in felis.",
-      "name": "Riffpedia",
-      "price": "14.54 chf",
+      "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",
+      "name": "Eadel",
+      "price": "10.91 chf",
       "photos": [
-        "https://picsum.photos/id/787/800/600/",
-        "https://picsum.photos/id/138/800/600/",
-        "https://picsum.photos/id/918/800/600/"
+        "https://picsum.photos/id/663/800/600/",
+        "https://picsum.photos/id/652/800/600/",
+        "https://picsum.photos/id/529/800/600/"
       ]
     },
     {
       "id": "14",
-      "description": "Integer tincidunt ante vel ipsum.",
-      "name": "Zoomcast",
-      "price": "6.51 chf",
+      "description": "Pellentesque eget nunc.",
+      "name": "Zoonoodle",
+      "price": "6.32 chf",
       "photos": [
-        "https://picsum.photos/id/914/800/600/",
-        "https://picsum.photos/id/391/800/600/",
-        "https://picsum.photos/id/351/800/600/"
+        "https://picsum.photos/id/795/800/600/",
+        "https://picsum.photos/id/653/800/600/",
+        "https://picsum.photos/id/939/800/600/"
       ]
     },
     {
       "id": "15",
-      "description": "Duis aliquam convallis nunc.",
-      "name": "Shuffledrive",
-      "price": "6.96 chf",
+      "description": "Maecenas tincidunt lacus at velit.",
+      "name": "Browsebug",
+      "price": "7.02 chf",
       "photos": [
-        "https://picsum.photos/id/105/800/600/",
-        "https://picsum.photos/id/800/800/600/",
-        "https://picsum.photos/id/974/800/600/"
+        "https://picsum.photos/id/718/800/600/",
+        "https://picsum.photos/id/826/800/600/",
+        "https://picsum.photos/id/533/800/600/"
       ]
     },
     {
       "id": "16",
-      "description": "Nunc purus.",
-      "name": "Janyx",
-      "price": "11.96 chf",
+      "description": "Proin risus.",
+      "name": "Tavu",
+      "price": "5.07 chf",
       "photos": [
-        "https://picsum.photos/id/386/800/600/",
-        "https://picsum.photos/id/917/800/600/",
-        "https://picsum.photos/id/100/800/600/"
+        "https://picsum.photos/id/314/800/600/",
+        "https://picsum.photos/id/850/800/600/",
+        "https://picsum.photos/id/166/800/600/"
       ]
     },
     {
       "id": "17",
-      "description": "Proin at turpis a pede posuere nonummy.",
-      "name": "Dablist",
-      "price": "9.68 chf",
+      "description": "Etiam faucibus cursus urna.",
+      "name": "Twitterwire",
+      "price": "9.40 chf",
       "photos": [
-        "https://picsum.photos/id/696/800/600/",
-        "https://picsum.photos/id/369/800/600/",
-        "https://picsum.photos/id/652/800/600/"
+        "https://picsum.photos/id/794/800/600/",
+        "https://picsum.photos/id/864/800/600/",
+        "https://picsum.photos/id/885/800/600/"
       ]
     },
     {
       "id": "18",
-      "description": "Nunc purus.",
-      "name": "Tagfeed",
-      "price": "9.10 chf",
+      "description": "Donec semper sapien a libero.",
+      "name": "Centizu",
+      "price": "12.98 chf",
       "photos": [
-        "https://picsum.photos/id/225/800/600/",
-        "https://picsum.photos/id/871/800/600/",
-        "https://picsum.photos/id/255/800/600/"
+        "https://picsum.photos/id/491/800/600/",
+        "https://picsum.photos/id/603/800/600/",
+        "https://picsum.photos/id/948/800/600/"
       ]
     },
     {
       "id": "19",
-      "description": "Maecenas rhoncus aliquam lacus.",
-      "name": "Meetz",
-      "price": "14.96 chf",
+      "description": "Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+      "name": "Tekfly",
+      "price": "8.13 chf",
       "photos": [
-        "https://picsum.photos/id/431/800/600/",
-        "https://picsum.photos/id/181/800/600/",
-        "https://picsum.photos/id/655/800/600/"
+        "https://picsum.photos/id/917/800/600/",
+        "https://picsum.photos/id/429/800/600/",
+        "https://picsum.photos/id/613/800/600/"
       ]
     },
     {
       "id": "20",
-      "description": "Morbi non lectus.",
-      "name": "Pixope",
-      "price": "6.40 chf",
+      "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",
+      "name": "Brainsphere",
+      "price": "9.39 chf",
       "photos": [
-        "https://picsum.photos/id/241/800/600/",
-        "https://picsum.photos/id/754/800/600/",
-        "https://picsum.photos/id/585/800/600/"
-      ]
-    },
-    {
-      "id": "21",
-      "description": "Donec ut mauris eget massa tempor convallis.",
-      "name": "Thoughtmix",
-      "price": "11.39 chf",
-      "photos": [
-        "https://picsum.photos/id/676/800/600/",
-        "https://picsum.photos/id/925/800/600/",
-        "https://picsum.photos/id/702/800/600/"
-      ]
-    },
-    {
-      "id": "22",
-      "description": "Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
-      "name": "Kwilith",
-      "price": "6.17 chf",
-      "photos": [
-        "https://picsum.photos/id/288/800/600/",
-        "https://picsum.photos/id/643/800/600/",
-        "https://picsum.photos/id/907/800/600/"
-      ]
-    },
-    {
-      "id": "23",
-      "description": "In hac habitasse platea dictumst.",
-      "name": "Miboo",
-      "price": "11.38 chf",
-      "photos": [
-        "https://picsum.photos/id/113/800/600/",
-        "https://picsum.photos/id/539/800/600/",
-        "https://picsum.photos/id/245/800/600/"
-      ]
-    },
-    {
-      "id": "24",
-      "description": "Vestibulum ante ipsum primis in faucibus orci luctus.",
-      "name": "Jaxnation",
-      "price": "11.77 chf",
-      "photos": [
-        "https://picsum.photos/id/654/800/600/",
-        "https://picsum.photos/id/849/800/600/",
-        "https://picsum.photos/id/868/800/600/"
-      ]
-    },
-    {
-      "id": "25",
-      "description": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",
-      "name": "Zoombeat",
-      "price": "12.74 chf",
-      "photos": [
-        "https://picsum.photos/id/935/800/600/",
-        "https://picsum.photos/id/356/800/600/",
-        "https://picsum.photos/id/365/800/600/"
-      ]
-    },
-    {
-      "id": "26",
-      "description": "Morbi non quam nec dui luctus rutrum.",
-      "name": "Linkbridge",
-      "price": "7.93 chf",
-      "photos": [
-        "https://picsum.photos/id/971/800/600/",
-        "https://picsum.photos/id/440/800/600/",
-        "https://picsum.photos/id/178/800/600/"
-      ]
-    },
-    {
-      "id": "27",
-      "description": "In blandit ultrices enim.",
-      "name": "Pixope",
-      "price": "1.12 chf",
-      "photos": [
-        "https://picsum.photos/id/382/800/600/",
-        "https://picsum.photos/id/183/800/600/",
-        "https://picsum.photos/id/255/800/600/"
-      ]
-    },
-    {
-      "id": "28",
-      "description": "Nam dui.",
-      "name": "Rhyloo",
-      "price": "7.88 chf",
-      "photos": [
-        "https://picsum.photos/id/380/800/600/",
-        "https://picsum.photos/id/503/800/600/",
-        "https://picsum.photos/id/299/800/600/"
-      ]
-    },
-    {
-      "id": "29",
-      "description": "Suspendisse potenti.",
-      "name": "Meemm",
-      "price": "14.54 chf",
-      "photos": [
-        "https://picsum.photos/id/742/800/600/",
-        "https://picsum.photos/id/627/800/600/",
-        "https://picsum.photos/id/381/800/600/"
-      ]
-    },
-    {
-      "id": "30",
-      "description": "Ut tellus.",
-      "name": "Thoughtworks",
-      "price": "11.97 chf",
-      "photos": [
-        "https://picsum.photos/id/114/800/600/",
-        "https://picsum.photos/id/463/800/600/",
-        "https://picsum.photos/id/963/800/600/"
-      ]
-    },
-    {
-      "id": "31",
-      "description": "Cras non velit nec nisi vulputate nonummy.",
-      "name": "Fivebridge",
-      "price": "8.74 chf",
-      "photos": [
-        "https://picsum.photos/id/171/800/600/",
-        "https://picsum.photos/id/641/800/600/",
-        "https://picsum.photos/id/458/800/600/"
-      ]
-    },
-    {
-      "id": "32",
-      "description": "Donec ut mauris eget massa tempor convallis.",
-      "name": "Thoughtsphere",
-      "price": "6.54 chf",
-      "photos": [
-        "https://picsum.photos/id/383/800/600/",
-        "https://picsum.photos/id/334/800/600/",
-        "https://picsum.photos/id/977/800/600/"
-      ]
-    },
-    {
-      "id": "33",
-      "description": "Nulla facilisi.",
-      "name": "Skynoodle",
-      "price": "13.46 chf",
-      "photos": [
-        "https://picsum.photos/id/307/800/600/",
-        "https://picsum.photos/id/731/800/600/",
-        "https://picsum.photos/id/154/800/600/"
-      ]
-    },
-    {
-      "id": "34",
-      "description": "In congue.",
-      "name": "Photobug",
-      "price": "5.17 chf",
-      "photos": [
-        "https://picsum.photos/id/671/800/600/",
-        "https://picsum.photos/id/339/800/600/",
-        "https://picsum.photos/id/256/800/600/"
-      ]
-    },
-    {
-      "id": "35",
-      "description": "Nunc purus.",
-      "name": "Browsecat",
-      "price": "15.20 chf",
-      "photos": [
-        "https://picsum.photos/id/895/800/600/",
-        "https://picsum.photos/id/440/800/600/",
-        "https://picsum.photos/id/702/800/600/"
+        "https://picsum.photos/id/564/800/600/",
+        "https://picsum.photos/id/912/800/600/",
+        "https://picsum.photos/id/806/800/600/"
       ]
     }
   ]
