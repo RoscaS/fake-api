@@ -17,7 +17,7 @@ class Obj: id: str; description: str; name: str; price: str; photos: list
 
 description = lambda: forgery_py.lorem_ipsum.sentence()
 name = lambda: forgery_py.name.company_name()
-price = lambda: "{:.2f} chf".format(random.randint(1, 15) + random.random())
+price = lambda: "{:.2f}".format(random.randint(1, 15) + random.random())
 photo = lambda: f'https://picsum.photos/id/{random.randint(100, 1000)}/800/600/'
 pics = lambda: [{"filename": photo()} for _ in range(3)]
 args = lambda: [description(), name(), price(), pics()]
