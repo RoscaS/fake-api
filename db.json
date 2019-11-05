@@ -2,10 +2,15 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "description": "hello",
+      "name": "lala",
+      "price": "12",
+      "photo": [
+        "lala",
+        "baba",
+        "tata",
+        "titi"
+      ]
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
